@@ -1,4 +1,4 @@
-# cse423project1
+# BRAC University CSE423 Project
 A spaceship game
 1. Level system. there will be multiple levels. for each consecutive level the zone gets shorter, special circles rate increase and decrease (depends on powerup). (700*700 res, gets 50 shorter (x and y axis) each level), 11 levels in total
 2. there will be health system for spaceship which stays same no matter level. 
